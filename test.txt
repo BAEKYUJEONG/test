@@ -1,1 +1,6 @@
 main
+home
+setting
+
+Home2
+Home3
